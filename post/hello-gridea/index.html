@@ -3,10 +3,10 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Hello Gridea | Gridea</title>
-<link rel="shortcut icon" href="http://dream.star/favicon.ico?v=1605961306958">
+<link rel="shortcut icon" href="https://dream.github.io/favicon.ico?v=1606635920271">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="http://dream.star/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="Hello Gridea | Gridea - Atom Feed" href="http://dream.star/atom.xml">
+<link rel="stylesheet" href="https://dream.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Hello Gridea | Gridea - Atom Feed" href="https://dream.github.io/atom.xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
@@ -27,8 +27,8 @@ Gridea 主页
     <div class="main">
       <div class="main-content">
         <div class="site-header">
-  <a href="http://dream.star">
-  <img class="avatar" src="http://dream.star/images/avatar.png?v=1605961306958" alt="">
+  <a href="https://dream.github.io">
+  <img class="avatar" src="https://dream.github.io/images/avatar.png?v=1606635920271" alt="">
   </a>
   <h1 class="site-title">
     Gridea
@@ -91,13 +91,13 @@ Gridea 主页
                 2 min read
               </span>
               
-                <a href="http://dream.star/tag/IUct-ZL_u/" class="post-tag">
+                <a href="https://dream.github.io/tag/IUct-ZL_u/" class="post-tag">
                   # Gridea
                 </a>
               
             </div>
             
-              <img class="post-feature-image" src="http://dream.star/post-images/hello-gridea.png" alt="">
+              <img class="post-feature-image" src="https://dream.github.io/post-images/hello-gridea.png" alt="">
             
             <div class="post-content-wrapper">
               <div class="post-content">
@@ -141,10 +141,36 @@ Gridea 主页
         
 
         
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '7c55edd3112ffe273b91',
+    clientSecret: '135b7e04b57a4869d3a81889016945a242476fea',
+    repo: 'dream.github.io',
+    owner: 'weiwuzhuyizhe',
+    admin: ['weiwuzhuyizhe'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
 
         <div class="site-footer">
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="http://dream.star/atom.xml" target="_blank">
+  <a class="rss" href="https://dream.github.io/atom.xml" target="_blank">
     <i class="ri-rss-line"></i> RSS
   </a>
 </div>
