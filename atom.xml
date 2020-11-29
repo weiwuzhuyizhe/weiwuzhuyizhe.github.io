@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dream.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-11-29T07:57:10.999Z</updated>
+    <id>https://weiwuzhuyizhe.github.io</id>
+    <title>唯物主义者</title>
+    <updated>2020-11-29T08:18:08.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://dream.github.io"/>
-    <link rel="self" href="https://dream.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://dream.github.io/images/avatar.png</logo>
-    <icon>https://dream.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <link rel="alternate" href="https://weiwuzhuyizhe.github.io"/>
+    <link rel="self" href="https://weiwuzhuyizhe.github.io/atom.xml"/>
+    <subtitle>welcome 唯物主义者‘s blog！</subtitle>
+    <logo>https://weiwuzhuyizhe.github.io/images/avatar.png</logo>
+    <icon>https://weiwuzhuyizhe.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 唯物主义者</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://dream.github.io/post/hello-gridea/</id>
-        <link href="https://dream.github.io/post/hello-gridea/">
+        <id>https://weiwuzhuyizhe.github.io/post/hello-gridea/</id>
+        <link href="https://weiwuzhuyizhe.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
